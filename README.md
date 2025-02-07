@@ -37,8 +37,11 @@
 
 ### 📌 **Featured Projects**  
 
+👻 **[PhantomS ecurity Solutions](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions?tab=readme-ov-file)** – Check out the NMAP remport
 📊 **[System Health Checker](https://github.com/Cody354/ops-201-code-challenges/tree/main/201)** – Python tool to monitor system performance  
 🌐 **[Advance Network Scanner](https://github.com/Cody354/ops401code/blob/main/ops-401d12%3AChallenge12NetworkSecurityToolwithScapyPart2.py)** – Advance script for discovering devices on a network  
+🏢 **[Active Directory Automation](https://github.com/Cody354/opschallenge301/blob/main/class13.ps1)** – PowerShell scripts to manage AD users, groups, and permissions  
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0082FC?style=flat&logo=microsoft&logoColor=white)
 
 ---
 
