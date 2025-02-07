@@ -38,9 +38,12 @@
 ### 📌 **Featured Projects**  
 
 👻 **[PhantomS ecurity Solutions](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions?tab=readme-ov-file)** – Check out the NMAP remport   
-🐛 **[Signature-based Malware Detector](https://github.com/Cody354/ops401code/blob/main/ops-401d12:Challenge33.py) – Python script that scans files for malware using the VirusTotal API, logging results and providing detailed file metadat
+🐛 **[Signature-based Malware Detector](https://github.com/Cody354/ops401code/blob/main/ops-401d12:Challenge33.py)** – Python script that scans files for malware, logging results and providing detailed file metadat   
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 🌐 **[Advance Network Scanner](https://github.com/Cody354/ops401code/blob/main/ops-401d12%3AChallenge12NetworkSecurityToolwithScapyPart2.py)** – Advance script for discovering devices on a network  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 🏢 **[Active Directory Automation](https://github.com/Cody354/opschallenge301/blob/main/class13.ps1)** – PowerShell scripts to manage AD users, groups, and permissions  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0082FC?style=flat&logo=microsoft&logoColor=white)
 
 ---
